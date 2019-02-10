@@ -11,3 +11,8 @@ In the data folder, feature vector contains 8000 rows and 11 columns where 8000 
 
 ![block of mlp](https://user-images.githubusercontent.com/32570071/52538567-83ab2b00-2d74-11e9-94ce-b29c179040ec.png)
 
+The MLP network that implemented is shown below. 
+
+![mlp](https://user-images.githubusercontent.com/32570071/52538591-be14c800-2d74-11e9-9fa5-10f12fe8ab71.png)
+
+The various hyper-parameters are as follows. 
