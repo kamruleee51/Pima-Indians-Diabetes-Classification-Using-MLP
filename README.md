@@ -16,3 +16,15 @@ The MLP network that implemented is shown below.
 ![mlp](https://user-images.githubusercontent.com/32570071/52538591-be14c800-2d74-11e9-9fa5-10f12fe8ab71.png)
 
 The various hyper-parameters are as follows. 
+
+* Learning rate= 0.01
+Batch size= 200
+Number of epochs= 350
+Optimizer= Adam optimization (Extension to stochastic gradient descent)
+Bias initialization= Random values from a normal distribution (Mean=0.0, Std. dev.=0.02)
+Regularization= L2-norm (least squares error (LSE))
+Number of Class=2
+Number of Features=10
+Number of Neuron in Hidden layer 1=25
+Number of Neuron in Hidden layer 2=25
+Loss Function=categorical_crossentropy
